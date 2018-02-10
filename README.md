@@ -1,4 +1,4 @@
-# MvcMovie
+# Movie MVC Application 
 ## 必要條件
 安裝下列項目：
 * .NET Core 2.0.0 SDK (含) 以上版本
